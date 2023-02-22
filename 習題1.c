@@ -16,6 +16,14 @@ int main() {
     printf("integrate(square, 0.0, 2.0)=%f\n", integrate(square, 0.0, 2.0));
 }
 
-//step=0.001
+/*
+>gcc 習題1.c
+
+sp111b>a.exe       
+integrate(square, 0.0, 2.0)=2.666867
+*/
+
+
+//step=0.0001
 
 //0.0~2.0
