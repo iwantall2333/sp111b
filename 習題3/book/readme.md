@@ -1,3 +1,5 @@
+# 書本主題 : 帶你輕鬆看懂[程式碼](https://github.com/riscv2os/semu/blob/master/ccc/semu.c)
+
 >書本使用方法 : 同時對照[程式碼](https://github.com/riscv2os/semu/blob/master/ccc/semu.c)與本書，從前往後閱讀即可快速理解
 
 >**讓程式碼更易於我這種新手小白閱讀，也是我做這個主題的目的之一**
