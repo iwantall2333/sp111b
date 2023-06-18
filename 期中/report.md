@@ -1,8 +1,10 @@
-研究程式 : [semu.c](https://github.com/riscv2os/semu/blob/master/ccc/semu.c)
+本專案報告的程式碼全取自[semu.c](https://github.com/riscv2os/semu/blob/master/ccc/semu.c)，內文由chatgpt生成，
 
-底下的內文的式碼來自[semu.c](https://github.com/riscv2os/semu/blob/master/ccc/semu.c)，是由chatgpt生成，
 而我則是對chatgpt的回答做排版、畫重點( 粗體字即是重點，只是github會看不太出來**粗體字**的部分 )，
+
 這也是我對[semu.c](https://github.com/riscv2os/semu/blob/master/ccc/semu.c)作的筆記
+
+研究程式 : [semu.c](https://github.com/riscv2os/semu/blob/master/ccc/semu.c)
 
 ---
 
